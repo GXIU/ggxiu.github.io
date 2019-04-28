@@ -1,9 +1,10 @@
 # 修格致的个人主页
 
-Currently a PhD candidate in Peking University. 
+Currently a PhD candidate in Peking University. I received my B.A. from school of mathematical science in Peking University. I am a violinist. And I am a fan of New York Knicks. 
 
 ## Flags
 
+- 12点前睡觉！
 - Poincare Embedding and hyperbolic mapping
 
 ## Links
@@ -23,7 +24,7 @@ A tale with love and joy.
 [深度学习](http://www.deeplearningbook.org/)
 [少有人走过的路](https://item.jd.com/12238283.html)
 
-## Interesting papers
+## Interesting papers reading
 
 ### Traffic
 

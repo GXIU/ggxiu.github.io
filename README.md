@@ -2,6 +2,10 @@
 
 Currently a PhD candidate in Peking University. 
 
+## Flags
+
+- Poincare Embedding and hyperbolic mapping
+
 ## Links
 
 [M.C. Escher and Hyperbolic Geometry](http://pi.math.cornell.edu/~mec/Winter2009/Mihai/index.html)
@@ -21,3 +25,10 @@ A tale with love and joy.
 
 ## Interesting papers
 
+### Traffic
+
+- [Switch between critical percolation modes in city traffic dynamics](https://www.pnas.org/content/116/1/23)
+
+## Thoughts
+
+- 可能人生中更重要的不是选择，而是反应。

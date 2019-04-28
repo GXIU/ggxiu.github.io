@@ -1,37 +1,20 @@
 # 修格致的个人主页
 
-You can use the [editor on GitHub](https://github.com/GXIU/gxiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently a PhD candidate in Peking University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Links
 
-### Markdown
+[M.C. Escher and Hyperbolic Geometry](http://pi.math.cornell.edu/~mec/Winter2009/Mihai/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+### 给夏巴提的数学书
 
-# Header 1
-## Header 2
-### Header 3
+于2018年10月4日动笔，完稿与2018年10月末。
 
-- Bulleted
-- List
+A tale with love and joy.
 
-1. Numbered
-2. List
+## 读书
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GXIU/gxiu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[深度学习](http://www.deeplearningbook.org/)
+[少有人走过的路](https://item.jd.com/12238283.html)

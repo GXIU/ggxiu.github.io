@@ -2,10 +2,12 @@
 
 Currently a PhD candidate in Peking University. I received my B.A. from school of mathematical science in Peking University. I am a violinist. And I am a fan of New York Knicks. 
 
-## Flags
+## Flags & ToDos
 
 - 12点前睡觉！
 - Poincare Embedding and hyperbolic mapping
+
+- [] HyperGCN paper
 
 ## Links
 

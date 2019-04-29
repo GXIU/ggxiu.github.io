@@ -6,8 +6,18 @@ Currently a PhD candidate in Peking University. I received my B.A. from school o
 
 - 12点前睡觉！
 - Poincare Embedding and hyperbolic mapping
+<details>
+<summary>ToDos</summary>
 
-- [] HyperGCN paper
+HyperGCN paper
+</details>
+
+<details>
+<summary>Dones</summary>
+
+Nothing!
+</details>
+
 
 ## Links
 
@@ -29,9 +39,15 @@ A tale with love and joy.
 
 ## Interesting papers reading
 
-### Traffic
+<details>
+<summary>Traffic</summary>
 
 - [Switch between critical percolation modes in city traffic dynamics](https://www.pnas.org/content/116/1/23)
+</details>
+
+### Traffic
+
+
 
 ## Thoughts
 

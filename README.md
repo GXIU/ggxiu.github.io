@@ -41,12 +41,11 @@ A tale with love and joy.
 ## Interesting papers reading
 
 <details>
-<summary>Traffic</summary>
+<summary>### Traffic</summary>
 
 - [Switch between critical percolation modes in city traffic dynamics](https://www.pnas.org/content/116/1/23)
 </details>
 
-### Traffic
 
 
 
